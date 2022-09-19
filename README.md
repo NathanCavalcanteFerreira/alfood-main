@@ -30,4 +30,6 @@ Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no se
 
 ## 📚 Mais informações do curso
 
-Busque na plataforma da Alura o curso **Integrando seu projeto React com APIs** publicado na Escola Frontend.
+para rodar o projeto, clone o repositório da api: https://github.com/alura-cursos/restaurantes_api.git e crie um container no docker rodando os comandos:
+```docker-compose build```
+```docker-compose up```
